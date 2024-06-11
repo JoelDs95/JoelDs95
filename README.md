@@ -8,13 +8,31 @@ Mi enfoque siempre ha sido encontrar soluciones eficientes y efectivas.
 
 ## Tecnologías
 - Python
+- HTML
+- CSS
+- Bootstrap
 - JavaScript
-- SQL
-- HTML/CSS
+- TypeScript
+- React.js
+- Redux
+- Node.js
+- Express
+- Sequelize
+- PostgreSQL
 
+### Herramientas
+- Git
+- GitHub
+- Vercel
+- Postman
+
+-  
 ## Proyectos Destacados
 - **Proyecto de Automatización**: Implementé scripts en Python para automatizar procesos repetitivos, lo que resultó en una mejora significativa en la eficiencia.
 - **Aplicación Web Full Stack**: Desarrollé una aplicación web utilizando JavaScript, React y Node.js, aplicando los conocimientos adquiridos en el curso full stack de Soy Henry.
+- Este es un proyecto final del bootcamp de soy henry. Se trata de un proyecto ecommerce de articulos tech
+
+https://main.d1v4o3mt97tf62.amplifyapp.com/
 
 ## Soporte de Backups
 - Experiencia en configuración y mantenimiento de sistemas de respaldo.
