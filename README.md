@@ -32,10 +32,10 @@ Mi enfoque siempre ha sido encontrar soluciones eficientes y efectivas.
 - **Proyecto de Automatización**: Implementé scripts en Python para automatizar procesos repetitivos, lo que resultó en una mejora significativa en la eficiencia.
 - **Aplicación Web Full Stack**: Desarrollé una aplicación web utilizando JavaScript, React y Node.js, aplicando los conocimientos adquiridos en el curso full stack de Soy Henry.
 
-| 🎁 Projects                     | ⭐ Stars | 🍴 Forks | 🐛 Issues | 👥 Pull requests |
-| ------------------------------- | ------- | -------- | --------- | ---------------- |
-| [EcommerceTech (FrontEnd)](https://github.com/tu-repo-frontend) | ![Stars](https://img.shields.io/github/stars/tu-repo-frontend?style=social) | ![Forks](https://img.shields.io/github/forks/tu-repo-frontend?style=social) | ![Issues](https://img.shields.io/github/issues/tu-repo-frontend) | ![Pull requests](https://img.shields.io/github/issues-pr/tu-repo-frontend) |
-| [EcommerceTech (BackEnd)](https://github.com/tu-repo-backend) | ![Stars](https://img.shields.io/github/stars/tu-repo-backend?style=social) | ![Forks](https://img.shields.io/github/forks/tu-repo-backend?style=social) | ![Issues](https://img.shields.io/github/issues/tu-repo-backend) | ![Pull requests](https://img.shields.io/github/issues-pr/tu-repo-backend) |
+| 🎁 Projects                     |
+| ------------------------------- | 
+| [EcommerceTech (FrontEnd)](https://github.com/tu-repo-frontend)
+| [EcommerceTech (BackEnd)](https://github.com/tu-repo-backend) 
 
 
 
