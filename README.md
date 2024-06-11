@@ -23,19 +23,20 @@ Mi enfoque siempre ha sido encontrar soluciones eficientes y efectivas.
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 
 ### Herramientas
-- Git
-- GitHub
-- Vercel
-- Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
--  
-## Proyectos Destacados 🚀
+### Proyectos Destacados 🚀
 - **Proyecto de Automatización**: Implementé scripts en Python para automatizar procesos repetitivos, lo que resultó en una mejora significativa en la eficiencia.
 - **Aplicación Web Full Stack**: Desarrollé una aplicación web utilizando JavaScript, React y Node.js, aplicando los conocimientos adquiridos en el curso full stack de Soy Henry.
+
 | 🎁 Projects                     | ⭐ Stars | 🍴 Forks | 🐛 Issues | 👥 Pull requests |
 | ------------------------------- | ------- | -------- | --------- | ---------------- |
 | [EcommerceTech (FrontEnd)](https://github.com/tu-repo-frontend) | ![Stars](https://img.shields.io/github/stars/tu-repo-frontend?style=social) | ![Forks](https://img.shields.io/github/forks/tu-repo-frontend?style=social) | ![Issues](https://img.shields.io/github/issues/tu-repo-frontend) | ![Pull requests](https://img.shields.io/github/issues-pr/tu-repo-frontend) |
 | [EcommerceTech (BackEnd)](https://github.com/tu-repo-backend) | ![Stars](https://img.shields.io/github/stars/tu-repo-backend?style=social) | ![Forks](https://img.shields.io/github/forks/tu-repo-backend?style=social) | ![Issues](https://img.shields.io/github/issues/tu-repo-backend) | ![Pull requests](https://img.shields.io/github/issues-pr/tu-repo-backend) |
+
 
 
 ## Soporte de Backups
