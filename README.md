@@ -1,4 +1,4 @@
-## Hola a todos 👋
+## Hola, mi nombre es Anthony J Depablos S.  
 
 Soy un desarrollador con experiencia en Python y JavaScript, con conocimientos básicos en SQL. Recientemente, completé el curso Full Stack Developer en JavaScript de Soy Henry, lo que me ha permitido profundizar y ampliar mis habilidades en el desarrollo web.
 
@@ -20,6 +20,8 @@ Mi enfoque siempre ha sido encontrar soluciones eficientes y efectivas.
 - CSS
 - Bootstrap
 - Material UI
+- Linux Fedora JavaScript React TypeScript redux Sass Styled Components git npm html5 Nodejs Express
+  
 
 ### Herramientas
 - Git
