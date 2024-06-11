@@ -6,22 +6,21 @@ He estado programando en Python durante aproximadamente tres años, desarrolland
 
 Mi enfoque siempre ha sido encontrar soluciones eficientes y efectivas.
 
-## Tecnologías
-- Python
-- JavaScript
-- Node.js
-- Express
-- TypeScript
-- React.js
-- Redux
-- Sequelize
-- PostgreSQL
-- HTML
-- CSS
-- Bootstrap
-- Material UI
-- Linux Fedora JavaScript React TypeScript redux Sass Styled Components git npm html5 Nodejs Express
-  
+
+### Tecnologías que programo 👨‍💻
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 
 ### Herramientas
 - Git
@@ -30,12 +29,14 @@ Mi enfoque siempre ha sido encontrar soluciones eficientes y efectivas.
 - Postman
 
 -  
-## Proyectos Destacados
+## Proyectos Destacados 🚀
 - **Proyecto de Automatización**: Implementé scripts en Python para automatizar procesos repetitivos, lo que resultó en una mejora significativa en la eficiencia.
 - **Aplicación Web Full Stack**: Desarrollé una aplicación web utilizando JavaScript, React y Node.js, aplicando los conocimientos adquiridos en el curso full stack de Soy Henry.
-- Este es un proyecto final del bootcamp de soy henry. Se trata de un proyecto ecommerce de articulos tech
+| 🎁 Projects                     | ⭐ Stars | 🍴 Forks | 🐛 Issues | 👥 Pull requests |
+| ------------------------------- | ------- | -------- | --------- | ---------------- |
+| [EcommerceTech (FrontEnd)](https://github.com/tu-repo-frontend) | ![Stars](https://img.shields.io/github/stars/tu-repo-frontend?style=social) | ![Forks](https://img.shields.io/github/forks/tu-repo-frontend?style=social) | ![Issues](https://img.shields.io/github/issues/tu-repo-frontend) | ![Pull requests](https://img.shields.io/github/issues-pr/tu-repo-frontend) |
+| [EcommerceTech (BackEnd)](https://github.com/tu-repo-backend) | ![Stars](https://img.shields.io/github/stars/tu-repo-backend?style=social) | ![Forks](https://img.shields.io/github/forks/tu-repo-backend?style=social) | ![Issues](https://img.shields.io/github/issues/tu-repo-backend) | ![Pull requests](https://img.shields.io/github/issues-pr/tu-repo-backend) |
 
-https://main.d1v4o3mt97tf62.amplifyapp.com/
 
 ## Soporte de Backups
 - Experiencia en configuración y mantenimiento de sistemas de respaldo.
@@ -50,4 +51,11 @@ https://main.d1v4o3mt97tf62.amplifyapp.com/
 - 💬 Pregúntame sobre Python, JavaScript o soporte de backups.
 - 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/anthony-depablos) | [Correo](mailto:ajds.joel1995@gmail.com)
 - ⚡ Dato curioso: Además de la programación, me encanta aprender sobre nuevas tecnologías y mejorar continuamente mis habilidades.
+
+  ### Competencias 🏆
+- Trabajo en equipo
+- Resolución de problemas
+- Comunicación efectiva
+- Orientación al cliente
+
 
