@@ -8,17 +8,18 @@ Mi enfoque siempre ha sido encontrar soluciones eficientes y efectivas.
 
 ## Tecnologías
 - Python
-- HTML
-- CSS
-- Bootstrap
 - JavaScript
+- Node.js
+- Express
 - TypeScript
 - React.js
 - Redux
-- Node.js
-- Express
 - Sequelize
 - PostgreSQL
+- HTML
+- CSS
+- Bootstrap
+- Material UI
 
 ### Herramientas
 - Git
