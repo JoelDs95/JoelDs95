@@ -45,6 +45,6 @@ https://main.d1v4o3mt97tf62.amplifyapp.com/
 - 👯 Estoy buscando colaborar en proyectos de desarrollo web y automatización.
 - 🤔 Estoy buscando ayuda con la implementación de mejores prácticas en el desarrollo backend.
 - 💬 Pregúntame sobre Python, JavaScript o soporte de backups.
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/anthony-depablos) | [Correo](Gmail:ajds.joel1995@gmail.com)
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/anthony-depablos) | [Correo](mailto:ajds.joel1995@gmail.com)
 - ⚡ Dato curioso: Además de la programación, me encanta aprender sobre nuevas tecnologías y mejorar continuamente mis habilidades.
 
